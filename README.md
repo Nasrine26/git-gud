@@ -7,4 +7,4 @@ This repository contains the materials -- presentation LaTex & PDF files, script
 `doc/`: LaTex files for my beamer presentation.  
 
 ## Acknowledgements
-Thanks to Stephen Malina, Nasrine Metic for beta-testing the tutorial for me.
+Thanks to Stephen Malina, David Knowles, Megan Schertzer, Nasrine Metic for beta-testing the tutorial for me.
